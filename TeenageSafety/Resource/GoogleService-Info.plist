@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527217603465-q0tqsfnchcpalpvl2s5qa38teqc1absu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527217603465-q0tqsfnchcpalpvl2s5qa38teqc1absu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527217603465-d582t707eufeoshujrj5391i2k2nmsgb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTmuVmkW5Hgih7nxKN-abM41GlY36nPIc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527217603465</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.override</string>
+	<key>PROJECT_ID</key>
+	<string>override-2afbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>override-2afbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527217603465:ios:1b07a17d8deb558aad2758</string>
+	<key>DATABASE_URL</key>
+	<string>https://override-2afbb.firebaseio.com</string>
+</dict>
+</plist>
